@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622593236 source:/home/cecilio/logica danki/aula7/main.c
+	<stdio.h>
+	<stdlib.h>
+
